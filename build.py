@@ -1,5 +1,11 @@
 from pybtex.database.input import bibtex
 
+#TODO: Oral presentation
+#TODO: add videos
+#TODO: add address
+#TODO: bio
+#TODO: awards
+
 def get_personal_data():
     name = ["Eve", "Charbonneau"]
     email = "eve.charbonneau.1@umontreal.ca"
