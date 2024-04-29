@@ -1,6 +1,6 @@
 # Personal Website
 
-This repository contains the python script to generate [Eve Charbonneau's home page](https://evecharbie.github.io/). 
+This repository contains the python script to generate [Eve Charbonneau's home page](https://evecharbie.github.io/index.html). 
 This website summarizes my research highlights.
 
 ## Credits
